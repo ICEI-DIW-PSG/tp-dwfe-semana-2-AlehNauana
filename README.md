@@ -5,9 +5,13 @@
 Nome: Alexandra Nauna Gonçalves Faria
 Matricula: 927712
 
-## Print tela página currículo
+## Tela de inspeção com navegador
 
-![Print Inspeção](images/print_curriculo.jpg)
+![Print Inspeção](images/print_inspecao.jpg)
+
+## Tela resultado arquivo index.html
+
+![Print Inspeção](images/print_index.jpg)
 
 ## Orientações sobre Linguagem MarkDown
 
